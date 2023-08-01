@@ -4,7 +4,7 @@
 
 The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
 
-There are 3 main folders:
+There are 2 main folders:
 
 - `server`: The starting point of our GraphQL server.
 - `client`: The starting point of our React application.
